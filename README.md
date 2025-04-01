@@ -1,2 +1,8 @@
-# -memeswap-legal
-Memeswap collects limited data such as account IDs and device info to support token creation, wallet activity, and analytics. Data is not sold and is used only to improve the app and ensure safety. We rely on trusted services like Firebase and Hedera for secure operations.
+# Memeswap Legal
+
+This repository contains the publicly available legal and compliance documents for the Memeswap app.
+
+- [Privacy Policy](./privacy-policy.md)
+- [Terms of Use](./terms-of-use.md)
+
+These documents apply to our iOS, Android, and web experiences.
