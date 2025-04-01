@@ -4,5 +4,6 @@ This repository contains the publicly available legal and compliance documents f
 
 - [Privacy Policy](./privacy-policy.md)
 - [Terms of Use](./terms-of-use.md)
+- [Support](./support.md)
 
 These documents apply to our iOS, Android, and web experiences.
